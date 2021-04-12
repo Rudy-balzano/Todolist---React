@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.cont{
+  
+  width: 100%;
+  padding: 7%;
+  padding-left: 10%;
+  padding-right: 10%;
+  background-color: rgba(212, 230, 246, 0.66);
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+  margin: 5%;
+  
+}
+
+.opt{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+
+.list{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5px;
+}
+
+.bgroup{
+  margin-top: 10px;
+}
+
+.add{
+  display: flex;
+}
+
+.bAdd{
+  margin-top: 9px;
+  margin-left: 5px;
+}
